@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[光希動漫格]]></title>
   <link href="http://kimo6416337.github.io/atom.xml" rel="self"/>
   <link href="http://kimo6416337.github.io/"/>
-  <updated>2013-10-30T00:02:51+08:00</updated>
+  <updated>2013-10-30T00:54:43+08:00</updated>
   <id>http://kimo6416337.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[傲月光希]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇部落格文章]]></title>
+    <link href="http://kimo6416337.github.io/blog/2013/10/30/wo-de-di-%5B%3F%5D-pian-bu-luo-ge-wen-zhang/"/>
+    <updated>2013-10-30T00:19:00+08:00</updated>
+    <id>http://kimo6416337.github.io/blog/2013/10/30/wo-de-di-[?]-pian-bu-luo-ge-wen-zhang</id>
+    <content type="html"><![CDATA[<h1>這是大標題H1＃</h1>
+
+<h2>這是次標題H2</h2>
+
+<p>我是主要內文喔！</p>
+]]></content>
+  </entry>
   
 </feed>
