@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[光希動漫格]]></title>
-  <link href="http://kimo6416337.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: my first post | 光希動漫格]]></title>
+  <link href="http://kimo6416337.github.io/blog/categories/my-first-post/atom.xml" rel="self"/>
   <link href="http://kimo6416337.github.io/"/>
   <updated>2013-10-30T08:22:46+08:00</updated>
   <id>http://kimo6416337.github.io/</id>
