@@ -1,0 +1,9 @@
+---
+layout: post
+title: "new title"
+date: 2013-10-30 08:05
+comments: true
+categories: [my first post]
+---
+#Hello
+It's a good day today.
