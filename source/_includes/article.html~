@@ -37,7 +37,7 @@
       {% include post/categories.html %}
     </p>
     {% unless page.sharing == false %}
-      {% include post/sharing.html %}
+      {% include post/AddThis_sharing.html %}
     {% endunless %}
     {% if page.previous.url %}
       <a class="pull-left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}" style="background-color:black;padding:5px;color:white;font-size:18px">&laquo; {{page.previous.title}}</a>

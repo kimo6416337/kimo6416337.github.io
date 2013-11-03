@@ -7,8 +7,8 @@ categories: [my first post]
 ---
 #Hello
 It's a good day today.
-<!--
-![PM雙子](/images/123.jpg "萌萌雙子")
+{% gallery %}
+images/123.jpg: 萌萌雙子
+{% endgallery %}
 
-<!--
-{% photo 123.jpg default 萌萌雙子 %}
+![PM雙子](/images/123.jpg "萌萌雙子")
