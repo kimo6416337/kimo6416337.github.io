@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[分類：programming | 光希動漫格]]></title>
+  <link href="http://kimo6416337.github.io/blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://kimo6416337.github.io/"/>
+  <updated>2013-11-04T00:42:12+08:00</updated>
+  <id>http://kimo6416337.github.io/</id>
+  <author>
+    <name><![CDATA[傲月光希]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[多載(overloading)、重載(overriding)、多型(polymorphism)]]></title>
+    <link href="http://kimo6416337.github.io/blog/2013-11-04/duo-zai-overloading-zhong-zai-overriding-duo-xing-polymorphism/"/>
+    <updated>2013-11-04T00:15:00+08:00</updated>
+    <id>http://kimo6416337.github.io/blog/2013-11-04/duo-zai-overloading-zhong-zai-overriding-duo-xing-polymorphism</id>
+    <content type="html"><![CDATA[<ol>
+<li><strong>一、多載(overloading)</strong><br/>
+一個類別(class)中具有複數個相同名稱的函數(method)時，利用下列兩種方式判斷函數呼叫該載入哪個函數：<br/>
+　　1.參數(argument)的型態(type)不同<br/>
+　　例：<br/>
+　　　　function foo(char c){code statements;}<br/>
+　　　　function foo(int num){code statements;}<br/>
+　　2.參數載入數量不同(包含0個)<br/>
+　　例：<br/>
+　　　　function foo(int a){code statements;}<br/>
+　　　　function foo(int a,int b){code statements;}</li>
+<li><strong>二、重載(overriding)</strong><br/>
+用於類別的繼承(inheritance)上。當父類別與子類別具有相同名稱的函數時，則被宣告為子類別之物件(object)呼叫該函數會執行子類別中的函數，而非父類別中的函數。<br/>
+　　例：<br/>
+　　　　class A {<br/>
+　　　　　function foo() {print &ldquo;I am in class A.&rdquo;;}<br/>
+　　　　}<br/>
+　　　　class B inherit A {  //B繼承A，A為父類別，B為子類別<br/>
+　　　　　function foo() {print &ldquo;I am in class B.&rdquo;;}<br/>
+　　　　}<br/>
+　　　　B b=new B();  //b被宣告為B類別之物件<br/>
+　　　　b.foo;  //output:I am in class B.</li>
+<li><strong>三、多型(polymorphism)</strong><br/>
+用於類別的繼承上。在父類別與子類別有共同名稱的函數情況下(也就產生了函數重載)，若呼叫相同名稱的函數時，則函數的行為會依照宣告類別之不同而產生不同結果。<br/>
+　　例：<br/>
+　　　　class A {<br/>
+　　　　　function foo(){}<br/>
+　　　　class B inherit A {<br/>
+　　　　　function foo() {print &ldquo;This is foo in class B.&rdquo;;}<br/>
+　　　　}<br/>
+　　　　class C inherit A {<br/>
+　　　　　function foo() {print &ldquo;This is foo in class C.&rdquo;;}<br/>
+　　　　}<br/>
+　　　　A var1=new A();  //output:This is foo in class B.<br/>
+　　　　B var2=new B();  //output:This is foo in class C.</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
