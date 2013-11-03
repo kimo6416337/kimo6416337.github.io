@@ -1,12 +1,4 @@
-<!--<script src="{{ root_url }}/javascripts/jquery.fancybox.pack.js"></script>-->
-<!-- Add fancyBox main JS and CSS files -->
-	<script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
-	<link rel="stylesheet" type="text/css" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen" />
-
-	<!-- Add fancyBox - button helper (this is optional) -->
-	<link rel="stylesheet" type="text/css" href="/fancybox/source/helpers/jquery.fancybox-buttons.css?v=2.1.5" />
-	<script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-buttons.js?v=2.1.5"></script>
-
+<script src="{{ root_url }}/javascripts/jquery.fancybox.pack.js"></script>
 <script type="text/javascript">
 (function($){
 	$('.fancybox').fancybox({

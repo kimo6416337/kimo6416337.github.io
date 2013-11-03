@@ -11,4 +11,3 @@ It's a good day today.
 images/123.jpg: 萌萌雙子
 {% endgallery %}
 
-![PM雙子](/images/123.jpg "萌萌雙子")
