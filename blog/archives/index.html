@@ -54,7 +54,13 @@ Oct 30 2013 posted in my first post " />
 <script language="Javascript" type="text/javascript">
     // ender.js gobbles jQuery's ready event: Use ender.js $ instead
     $(document).ready(function() {
-        jQuery(".fancybox").fancybox();
+        jQuery(".fancybox").fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
     });
 </script>
 

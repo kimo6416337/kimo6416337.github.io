@@ -53,7 +53,13 @@
 <script language="Javascript" type="text/javascript">
     // ender.js gobbles jQuery's ready event: Use ender.js $ instead
     $(document).ready(function() {
-        jQuery(".fancybox").fancybox();
+        jQuery(".fancybox").fancybox({
+          helpers: {
+              title : {
+                  type : 'float'
+              }
+          }
+      });
     });
 </script>
 
@@ -79,7 +85,13 @@
       <div class="row">
   <div class="span4">
     <h2>關於我</h2>
-<p>只會嘴砲</p>
+<p>
+喜愛ACG的任豚，特別是萌系動畫。<br />
+目前擔任小小軟體工程師。<br />
+擁有的主機有NDS、3DS、PSP、PSV。<br />
+最喜愛的遊戲之一是任天堂掌機上的ラブプラス系列（最新作是<a href="http://www.konami.jp/products/newloveplus/" target=_blank>NEWラブプラス</a>），女友是高嶺愛花。<br />
+平常都在FB上打混。
+</p>
 
   </div>
   <div class="span6">
