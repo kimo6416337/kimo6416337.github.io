@@ -1,7 +1,6 @@
 <h2>found on</h2>
 {% if site.facebook_user %}
 <a href="https://facebook.com/{{site.facebook_user}}/" rel="tooltip" title="Facebook"><img class="social_icon" title="Facebook" alt="facebook icon" src="{{ root_url }}/images/1383428246_facebook_circle_color.png"></a>
-{% endif %}
 
 {% if site.github_user %}
 <a href="https://github.com/{{site.github_user}}/" rel="tooltip" title="Github"><img class="social_icon" title="Github" alt="github icon" src="{{ root_url }}/images/glyphicons_381_github.png"></a>

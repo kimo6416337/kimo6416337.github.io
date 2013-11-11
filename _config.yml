@@ -100,4 +100,7 @@ google_analytics_tracking_id:
 # Facebook Like
 facebook_like: true
 
+#facebook
+facebook_user: guang.xi.3
+
 photos_prefix: /
