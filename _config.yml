@@ -103,4 +103,8 @@ facebook_like: true
 #facebook
 facebook_user: guang.xi.3
 
+#AddThis
+addthis_button: true
+addthis_profile_id: ra-527612da7f18f4cf
+
 photos_prefix: /

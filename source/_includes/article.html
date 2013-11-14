@@ -35,10 +35,11 @@
       {% include post/author.html %} - 
       {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %} - 
       {% include post/categories.html %}
-    </p>
+    
     {% unless page.sharing == false %}
       {% include post/sharing.html %}
     {% endunless %}
+    </p>
     {% if page.previous.url %}
       <a class="pull-left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}" style="background-color:black;padding:5px;color:white;font-size:18px">&laquo; {{page.previous.title}}</a>
     {% endif %}<br />
