@@ -4,7 +4,7 @@
   <title><![CDATA[光希動漫格]]></title>
   <link href="http://kimo6416337.github.io/atom.xml" rel="self"/>
   <link href="http://kimo6416337.github.io/"/>
-  <updated>2013-11-13T23:51:22+08:00</updated>
+  <updated>2013-11-14T22:47:44+08:00</updated>
   <id>http://kimo6416337.github.io/</id>
   <author>
     <name><![CDATA[傲月光希]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fancybox的圖片特效]]></title>
+    <link href="http://kimo6416337.github.io/blog/2013-11-14/fancyboxde-tu-pian-te-xiao/"/>
+    <updated>2013-11-14T22:45:00+08:00</updated>
+    <id>http://kimo6416337.github.io/blog/2013-11-14/fancyboxde-tu-pian-te-xiao</id>
+    <content type="html"><![CDATA[<p>點開下面兩張圖片會有彈出效果
+<a href="http://kimo6416337.github.io/images/123.jpg" class="fancybox" title="萌萌雙子 "><img src="http://kimo6416337.github.io/images/123.jpg"  alt="萌萌雙子 " /></a>
+<a href="http://kimo6416337.github.io/images/heroBack.jpg" class="fancybox" title="Madoka&Homu "><img src="http://kimo6416337.github.io/images/heroBack.jpg"  alt="Madoka&Homu " /></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[某島看到的「雅量」改編複製文]]></title>
@@ -85,21 +96,6 @@
 　　　　B var2=new B();  //output:This is foo in class C.</li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[new title]]></title>
-    <link href="http://kimo6416337.github.io/blog/2013-10-30/new-title/"/>
-    <updated>2013-10-30T08:05:00+08:00</updated>
-    <id>http://kimo6416337.github.io/blog/2013-10-30/new-title</id>
-    <content type="html"><![CDATA[<h1>Hello</h1>
-
-<p>It&rsquo;s a good day today.</p>
-
-<p><a href="http://kimo6416337.github.io/images/123.jpg" class="fancybox" title="萌萌雙子 "><img src="http://kimo6416337.github.io/images/123.jpg"  alt="萌萌雙子 " /></a></p>
-
-<p><a href="http://kimo6416337.github.io/images/heroBack.jpg" class="fancybox" title="neko "><img src="http://kimo6416337.github.io/images/heroBack.jpg"  alt="neko " /></a></p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[分類：fancybox | 光希動漫格]]></title>
+  <link href="http://kimo6416337.github.io/blog/categories/fancybox/atom.xml" rel="self"/>
+  <link href="http://kimo6416337.github.io/"/>
+  <updated>2013-11-14T22:47:44+08:00</updated>
+  <id>http://kimo6416337.github.io/</id>
+  <author>
+    <name><![CDATA[傲月光希]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Fancybox的圖片特效]]></title>
+    <link href="http://kimo6416337.github.io/blog/2013-11-14/fancyboxde-tu-pian-te-xiao/"/>
+    <updated>2013-11-14T22:45:00+08:00</updated>
+    <id>http://kimo6416337.github.io/blog/2013-11-14/fancyboxde-tu-pian-te-xiao</id>
+    <content type="html"><![CDATA[<p>點開下面兩張圖片會有彈出效果
+<a href="/images/123.jpg" class="fancybox" title="萌萌雙子 "><img src="/images/123.jpg"  alt="萌萌雙子 " /></a>
+<a href="/images/heroBack.jpg" class="fancybox" title="Madoka&amp;Homu "><img src="/images/heroBack.jpg"  alt="Madoka&amp;Homu " /></a></p>
+]]></content>
+  </entry>
+  
+</feed>
