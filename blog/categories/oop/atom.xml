@@ -4,7 +4,7 @@
   <title><![CDATA[分類：OOP | 光希動漫格]]></title>
   <link href="http://kimo6416337.github.io/blog/categories/oop/atom.xml" rel="self"/>
   <link href="http://kimo6416337.github.io/"/>
-  <updated>2013-11-14T22:47:44+08:00</updated>
+  <updated>2013-11-16T14:07:08+08:00</updated>
   <id>http://kimo6416337.github.io/</id>
   <author>
     <name><![CDATA[傲月光希]]></name>
@@ -29,6 +29,13 @@
 　　例：<br/>
 　　　　function foo(int a){code statements;}<br/>
 　　　　function foo(int a,int b){code statements;}</li>
+</ol>
+
+
+<!-- more -->
+
+
+<ol>
 <li><strong>二、重載(overriding)</strong><br/>
 用於類別的繼承(inheritance)上。當父類別與子類別具有相同名稱的函數時，則被宣告為子類別之物件(object)呼叫該函數會執行子類別中的函數，而非父類別中的函數。<br/>
 　　例：<br/>
