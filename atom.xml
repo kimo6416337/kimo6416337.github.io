@@ -4,7 +4,7 @@
   <title><![CDATA[光希動漫格]]></title>
   <link href="http://kimo6416337.github.io/atom.xml" rel="self"/>
   <link href="http://kimo6416337.github.io/"/>
-  <updated>2013-11-16T14:07:08+08:00</updated>
+  <updated>2013-11-19T20:05:38+08:00</updated>
   <id>http://kimo6416337.github.io/</id>
   <author>
     <name><![CDATA[傲月光希]]></name>
@@ -14,13 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Fancybox的圖片特效]]></title>
+    <title type="html"><![CDATA[Fancybox的特效]]></title>
     <link href="http://kimo6416337.github.io/blog/2013-11-14/fancyboxde-tu-pian-te-xiao/"/>
     <updated>2013-11-14T22:45:00+08:00</updated>
     <id>http://kimo6416337.github.io/blog/2013-11-14/fancyboxde-tu-pian-te-xiao</id>
     <content type="html"><![CDATA[<p>點開下面兩張圖片會有彈出效果
 <a href="http://kimo6416337.github.io/images/123.jpg" class="fancybox" title="萌萌雙子 "><img src="http://kimo6416337.github.io/images/123.jpg"  alt="萌萌雙子 " /></a>
-<a href="http://kimo6416337.github.io/images/heroBack.jpg" class="fancybox" title="Madoka&Homu "><img src="http://kimo6416337.github.io/images/heroBack.jpg"  alt="Madoka&Homu " /></a></p>
+<a href="http://kimo6416337.github.io/images/heroBack.jpg" class="fancybox" title="Madoka&Homu "><img src="http://kimo6416337.github.io/images/heroBack.jpg"  alt="Madoka&Homu " /></a>
+點下面會彈出youtube播放視窗</p>
+
+<div class="video"><div class="video_player"></div><a class="various fancybox.iframe" href="http://www.youtube.com/embed/A0TuC2oe8sg?autoplay=0"><img src="https://i1.ytimg.com/vi/A0TuC2oe8sg/hqdefault.jpg"></a></div>
+
+
+
 ]]></content>
   </entry>
   
