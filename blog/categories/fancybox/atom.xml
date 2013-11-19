@@ -4,7 +4,7 @@
   <title><![CDATA[分類：fancybox | 光希動漫格]]></title>
   <link href="http://kimo6416337.github.io/blog/categories/fancybox/atom.xml" rel="self"/>
   <link href="http://kimo6416337.github.io/"/>
-  <updated>2013-11-19T20:05:38+08:00</updated>
+  <updated>2013-11-20T00:23:07+08:00</updated>
   <id>http://kimo6416337.github.io/</id>
   <author>
     <name><![CDATA[傲月光希]]></name>
@@ -22,7 +22,7 @@
 <a href="/images/123.jpg" class="fancybox" title="萌萌雙子 "><img src="/images/123.jpg"  alt="萌萌雙子 " /></a>
 <a href="/images/heroBack.jpg" class="fancybox" title="Madoka&amp;Homu "><img src="/images/heroBack.jpg"  alt="Madoka&amp;Homu " /></a>
 點下面會彈出youtube播放視窗
-<div class="video"><div class="video_player"></div><a class="various fancybox.iframe" href="http://www.youtube.com/embed/A0TuC2oe8sg?autoplay=0"><img src="https://i1.ytimg.com/vi/A0TuC2oe8sg/hqdefault.jpg"></a></div></p>
+<div class="video"><a class="various fancybox.iframe" href="http://www.youtube.com/embed/A0TuC2oe8sg?autoplay=0"><div class="video_player"></div><img src="https://i1.ytimg.com/vi/A0TuC2oe8sg/hqdefault.jpg"></a></div></p>
 ]]></content>
   </entry>
   
